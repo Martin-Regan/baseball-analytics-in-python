@@ -6,4 +6,4 @@ The series covers working with baseball data in Python, analysing player and tea
 
 For full explanations of the code and analysis, see the blog series:
 
-[Read the Baseball Analytics in Python series][(https://www.thedataschool.co.uk/blog/martin-regan/)]
+https://www.thedataschool.co.uk/blog/martin-regan/
